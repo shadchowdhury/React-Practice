@@ -1,11 +1,11 @@
-import Five from "./component/Five"
+import Eleven from "./component/Eleven"
 
 
 function App() {
-  
+
   return (
     <>
-      <Five />
+      <Eleven/>
     </>
   )
 }
